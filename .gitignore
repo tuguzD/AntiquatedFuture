@@ -21,6 +21,9 @@ SourceArt/**/*.tga
 Binaries/*
 Plugins/*/Binaries/*
 
+# Game plugin files
+Plugins/WakaTimeForUE/*
+
 # Builds
 Build/*
 
