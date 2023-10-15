@@ -24,6 +24,9 @@ Plugins/*/Binaries/*
 # Game plugin files
 Plugins/WakaTimeForUE/*
 
+# Starter content used in development
+Content/StarterContent/*
+
 # Builds
 Build/*
 
