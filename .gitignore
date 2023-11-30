@@ -23,6 +23,7 @@ Plugins/*/Binaries/*
 
 # Game plugin files
 Plugins/WakaTimeForUE/*
+Plugins/UnrealBucket/*
 
 # Starter content used in development
 Content/StarterContent/*
